@@ -1,6 +1,6 @@
 # Project II: Extending the Ray Tracer
 # CS 440 Computer Graphics, Fall 2019
-# Class project with Nisha Shaikh, Reeba Aslam, Sami Murtaza and Syed Ahsan 
+## Class project with Nisha Shaikh, Reeba Aslam, Sami Murtaza and Syed Ahsan 
 
 ## Purpose
 
