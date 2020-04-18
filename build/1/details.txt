@@ -1,0 +1,19 @@
+Time taken to build the shapes = 0.001
+Time taken to build the bounding box = 0
+Number of premitives in the scene = 1089
+Time taken to add shapes to octree = 0.021
+Resolution = 400x400
+subdivision cretria = 32
+
++ Octree + Multithreading 
+Time taken to write the image = 24.101
+
++ Ovtree - Multithreading 
+Time taken to write the image = 43.481
+
+- Ovtree - Multithreading 
+Time taken to write the image = 10.289
+
+- Ovtree + Multithreading 
+Time taken to write the image = 3.594
+
